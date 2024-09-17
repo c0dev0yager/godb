@@ -1,4 +1,4 @@
-module github.com/c0dev0yager/godb/redis
+module github.com/c0dev0yager/godb/redismgr
 
 go 1.22.2
 
